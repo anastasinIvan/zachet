@@ -1,0 +1,16 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Irina Pigareva",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "nedb": "^1.8.0",
+    "nedb-promises": "^4.1.2"
+  }
+}
